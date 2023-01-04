@@ -288,7 +288,7 @@ sudo pacman -S chromium
 sudo pacman -S noto-fonts-cjk noto-fonts-emoji noto-fonts-extra
 sudo pacman -S ark
 sudo pacman -S p7zip unrar unarchiver lzop lrzip
-sudo pacman -S git wget
+sudo pacman -S git wget curl
 ```
 
 ## 安装登陆管理器
