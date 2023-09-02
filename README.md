@@ -258,7 +258,7 @@ vim /etc/pacman.conf
 ```shell
 [archlinuxcn]
 Server = https://mirrors.bfsu.edu.cn/archlinuxcn/$arch
-SigLeve = Never
+SigLevel = Never
 ```
 
 ## 安装 helper
