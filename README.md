@@ -130,7 +130,7 @@ vim /etc/locale.gen
 生成 locale
 
 ```shell
-locake-gen
+locale-gen
 ```
 
 向 /etc/locale.conf 导入
